@@ -14,6 +14,11 @@ export default {
     },
     extend: {
       colors: {
+        axe: {
+          green: "#00553d",
+          yellow: "#ffc400",
+          deep: "#003e30",
+        },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
